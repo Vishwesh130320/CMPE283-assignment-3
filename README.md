@@ -21,6 +21,8 @@
 
 ### Steps to reproduce
 
+#### All of this are same as Assignment 2.
+
 1. We followed the steps to install the VM, then Ubuntu on our Windows / Mac PC. Installed ISO - Ubuntu 18.5, allocated disk space of 250 GB.
 ![image](https://user-images.githubusercontent.com/99626312/205785339-2ae5c9f3-de40-4898-89f9-fe4e848db443.png)
 ![image](https://user-images.githubusercontent.com/99626312/205785357-f2f1a85f-9730-4ee8-9906-7e4c1c1b335c.png)
